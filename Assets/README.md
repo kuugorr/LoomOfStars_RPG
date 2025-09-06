@@ -1,0 +1,2 @@
+- Questo template fornisce logiche base (ScriptableObjects, loot roll, inventory, skill node) e non contiene assets 3D o scene complete.
+- Per prototipare velocemente puoi importare pacchetti free da Unity Asset Store (es. Starter Assets Third Person).

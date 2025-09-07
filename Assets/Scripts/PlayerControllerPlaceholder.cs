@@ -1,10 +1,15 @@
 using UnityEngine;
+using UnityEngine.AI;
 
 // Placeholder controller: replace with Cinemachine + Input System or Starter Assets
 public class PlayerControllerPlaceholder : MonoBehaviour
 {
+    public Camera playerCamera;
     public float moveSpeed = 5f;
     CharacterController controller;
+
+
+
     void Awake()
     {
         controller = GetComponent<CharacterController>();
